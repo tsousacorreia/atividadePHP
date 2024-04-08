@@ -1,6 +1,6 @@
 <?php 
 
-	//Atividade número 2
+	//Atividade número 3
 	//Dupla: Thiago de Sousa Correia / Silvio Moiano Silva
 
 	$nome = "Claudia";

@@ -1,5 +1,8 @@
 <?php 
 
+	//Atividade número 5
+	//Dupla: Thiago de Sousa Correia / Silvio Moiano Silva
+
 	$altura = 1.78;
 	$idade = 34;
 	$sexo = "F";
